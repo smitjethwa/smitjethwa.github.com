@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(240, 239, 233);
+}
+
+.title {
+    background-color: tan;
+    /* padding: 3%; */
+}
+
+.header {
+    color: royalblue;
+}
+
+.header_text {
+    /* padding:2%; */
+    font-size: 2em;
+    text-align: center;
+    font-family: 'Lora', serif;
+
+}
+
+li {
+    padding: 1%;
+    font-family: 'Karla', sans-serif;
+}
+
+.rules {
+    font-size: 2em;
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+
+}
+
+.section_title {
+    font-size: 1em;
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+}
+
+.welcome_text{
+    background-color: khaki;
+    border-radius: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: auto;
+    font-size: 1em;
+    text-align: justify;
+    padding: 2%;
+    font-family: "Space Mono", Arial, serif;
+
+}
+
+.imp_links{
+    padding-top:3%;
+    background-color: rgb(251, 239, 127);
+    border-radius: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    font-family: "Space Mono", Arial, serif;
+}
+
+.links{
+    margin:1%;
+}

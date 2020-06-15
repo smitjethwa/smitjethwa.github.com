@@ -1,0 +1,114 @@
+.profile {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+    display: inline-block;
+    vertical-align: middle;
+    height: 50vh;
+    border-radius: 50%;
+}
+
+.first_section {
+    height: 100%;
+    /* background: #FFDE57; */
+    background:linear-gradient( #ffde57, #4584b6, #646464);
+}
+
+.second_section {
+    /* height: 100%; */
+    background: #ffe476;
+}
+
+.third_section {
+    background: #d3d8d6
+
+}
+
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+.name {
+    font-family: "Kaushan Script", cursive;
+    text-align: center;
+    color: lemonchiffon;
+
+
+}
+
+.title {
+    font-family: "Space Mono", Arial, serif;
+    /* font-size: 1rem; */
+    text-align: center;
+    color: lemonchiffon;
+}
+
+.info {
+    padding-top: 5%;
+    text-align: center;
+}
+
+.info_title {
+    padding-left: 2%;
+    font-family: "Space Mono", Arial, serif;
+    font-weight: bold;
+}
+
+.info_detail {
+    padding-left: 2%;
+    font-family: "Space Mono", Arial, serif;
+
+}
+
+.header {
+    text-align: center;
+    padding-top: 5%;
+    font-family: "Space Mono", Arial, serif;
+    font-size: 2rem;
+}
+
+.about_me {
+    padding-left: 2%;
+    font-family: "Space Mono", Arial, serif;
+    text-align: justify;
+}
+
+.blog {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text_blog{
+    text-align: justify;
+    font-family: "Space Mono", Arial, serif;
+}
+
+.blog_title{
+    font-family: "Space Mono", Arial, serif;
+    font-weight: bold;
+}
+
+
+.tag_name{
+    font-family: "Space Mono", Arial, serif;
+    /* padding-left: 2%; */
+    /* padding-top: 2%;     */
+    background-color: #ebf3e2;
+    color: #000000;
+}
+
+df-messenger {
+    --df-messenger-bot-message:#fbfbfb;
+    --df-messenger-button-titlebar-color:#3f9af0;
+    --df-messenger-chat-background-color: #ffffff;
+    --df-messenger-font-color:#000000;
+    --df-messenger-input-box-color:#d3d8d6;
+    --df-messenger-input-font-color:#000000;
+    --df-messender-font-style:"Space Mono", Arial, serif;
+   }
